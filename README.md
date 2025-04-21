@@ -68,5 +68,8 @@ main/
    ```bash
    python Main3.py
    ```
+--- 
 
----
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).

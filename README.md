@@ -23,6 +23,8 @@ Open apps, control browser, play music, and more using speech-based interaction.
 🛠️ **Modular Codebase**  
 Separate modules for virtual assistant logic, gesture control, and object detection.
 
+
+
 --- 
 
 ## 🔧 Tech Stack
@@ -32,6 +34,13 @@ Separate modules for virtual assistant logic, gesture control, and object detect
 - **Gesture Recognition:** OpenCV, MediaPipe
 - **Object Detection:** YOLOv5 (Darknet)
 - **GUI / Automation:** pyautogui, os, subprocess
+
+## 👥 Contributors
+
+- Pushkar Jadhav
+- Pradnya Kapuskar
+- Tanay Tonpe
+
 
 ## 📁 Project Structure
 ```
